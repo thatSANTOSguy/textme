@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: textsantos.com
-Token: b572b0319eefa7f9cf1cfe00c307f9a0f5c3de4a300c7ce51bbb6a4c6df7a487
